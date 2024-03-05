@@ -75,7 +75,7 @@ The model is trained on a dataset containing chest X-ray images for three classe
 
 **Results**
 
-The trained model achieves an accuracy of X% on the testing data. Confusion matrix and other evaluation metrics are analyzed to assess the model's performance.
+The trained model achieves an accuracy of 93% on the testing data. Confusion matrix and other evaluation metrics are analyzed to assess the model's performance.
 
 
 
